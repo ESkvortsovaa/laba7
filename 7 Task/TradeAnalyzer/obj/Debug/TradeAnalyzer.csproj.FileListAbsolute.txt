@@ -1,0 +1,1060 @@
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe.config
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradeAnalyzer.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\netstandard.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.AppContext.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Console.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Data.Common.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Globalization.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Linq.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Http.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Security.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\ControlzEx.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Flurl.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Flurl.Http.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\log4net.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\MahApps.Metro.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Charting.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Core.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Data.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Drawing.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\StooqApi.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reactive.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Analysis.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Core.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Importer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Configuration.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Container.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Interception.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\YahooFinanceApi.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\ControlzEx.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Flurl.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Flurl.Http.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\log4net.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\MahApps.Metro.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Charting.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Core.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Data.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Drawing.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reactive.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Configuration.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Container.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Interception.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.csprojAssemblyReference.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe.config
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\App.g.cs
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.lref
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\MainWindow.baml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.g.resources
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.Properties.Resources.resources
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CopyComplete
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\obj\Debug\TradeAnalyzer.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\DataLoading.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\EPPlus.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\DataLoading.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\EPPlus.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\DataLoading.dll.config
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradingLib.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradingLib.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\TradeAnalyzer\bin\Debug\TradingLib.dll.config
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe.config
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\netstandard.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.AppContext.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Console.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Data.Common.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Http.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Security.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\ControlzEx.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.Http.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\log4net.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Charting.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Core.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Data.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Drawing.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\StooqApi.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reactive.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Analysis.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Core.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Configuration.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Container.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\YahooFinanceApi.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\EPPlus.dll
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.dll.config
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.dll.config
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\ControlzEx.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.Http.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\log4net.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Charting.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Core.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Data.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Drawing.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reactive.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Configuration.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Container.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\bin\Debug\EPPlus.xml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csprojAssemblyReference.cache
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe.config
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\App.g.cs
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.cache
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.lref
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\MainWindow.baml
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.g.resources
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.Properties.Resources.resources
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CopyComplete
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe
+C:\Users\Mi Notebook Pro\Downloads\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe.config
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradeAnalyzer.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\netstandard.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.AppContext.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Console.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Data.Common.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Http.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Security.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\CommonServiceLocator.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\ControlzEx.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.Http.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\log4net.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Charting.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Core.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Data.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Drawing.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\StooqApi.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reactive.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Analysis.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Core.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Abstractions.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Configuration.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Container.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\YahooFinanceApi.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\EPPlus.dll
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\DataLoading.dll.config
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\TradingLib.dll.config
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\CommonServiceLocator.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\ControlzEx.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Flurl.Http.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\log4net.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\MahApps.Metro.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Charting.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Core.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Data.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Drawing.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reactive.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\System.ValueTuple.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Configuration.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Container.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\bin\Debug\EPPlus.xml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.TradeAnalyzer.exe.config
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\App.g.cs
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.cache
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.lref
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\MainWindow.baml
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.g.resources
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.Properties.Resources.resources
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.GenerateResource.Cache
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe
+C:\Users\ipioneer\Desktop\Трейдинг\TradeAnalyzer\obj\Debug\TradeAnalyzer.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe.config
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\netstandard.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.AppContext.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Console.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Data.Common.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Linq.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Http.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Security.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\CommonServiceLocator.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\ControlzEx.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\DataLoading.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Flurl.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Flurl.Http.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\log4net.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Charting.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Core.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Data.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Drawing.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\StooqApi.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reactive.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradingLib.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Analysis.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Core.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Abstractions.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Configuration.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Container.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\YahooFinanceApi.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\EPPlus.dll
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\DataLoading.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\DataLoading.dll.config
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradingLib.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\TradingLib.dll.config
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\CommonServiceLocator.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\ControlzEx.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Flurl.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Flurl.Http.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\log4net.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Charting.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Core.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Data.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Drawing.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reactive.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\System.ValueTuple.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Configuration.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Container.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\bin\Debug\EPPlus.xml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.TradeAnalyzer.exe.config
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\App.g.cs
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.cache
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.lref
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\MainWindow.baml
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.g.resources
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.Properties.Resources.resources
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.GenerateResource.Cache
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe
+C:\Users\ipioneer\Desktop\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe.config
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.exe
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradeAnalyzer.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\netstandard.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.AppContext.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Console.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Data.Common.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Linq.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Http.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Security.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\ControlzEx.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\DataLoading.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Flurl.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Flurl.Http.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\log4net.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Charting.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Core.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Data.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Drawing.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\StooqApi.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reactive.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradingLib.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Analysis.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Core.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Configuration.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Container.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\YahooFinanceApi.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\EPPlus.dll
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\DataLoading.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\DataLoading.dll.config
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradingLib.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\TradingLib.dll.config
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\ControlzEx.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Flurl.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Flurl.Http.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\log4net.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\MahApps.Metro.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Charting.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Core.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Data.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Drawing.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Bootstrap.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.UI.Reactive.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reactive.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Configuration.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Container.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\bin\Debug\EPPlus.xml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe.config
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\App.g.cs
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.cache
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer_MarkupCompile.lref
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\MainWindow.baml
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.g.resources
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.Properties.Resources.resources
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.csproj.CopyComplete
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.exe
+C:\Users\Геннадий\Desktop\PDP\4GENA\7 Task\TradeAnalyzer\obj\Debug\TradeAnalyzer.pdb

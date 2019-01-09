@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SciChart.UI.Bootstrap</name>
+    </assembly>
+    <members>
+        <member name="F:SciChart.UI.Bootstrap.CreateAs.Default">
+            <summary>
+            Creates a new instance each time this class is injected
+            </summary>
+        </member>
+        <member name="F:SciChart.UI.Bootstrap.CreateAs.Singleton">
+            <summary>
+            Creates and stores the class as a singleton in the container
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Bootstrap.FinalizableObject">
+            <summary>
+            A base class which implements IDisposable and implements the Finalizer pattern to ensure dispose is called by the Garbage Collector if not called by the user 
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Bootstrap.FinalizableObject.Finalize">
+            <summary>
+            Finalizes an instance of the <see cref="T:SciChart.UI.Bootstrap.FinalizableObject"/> class.
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Bootstrap.FinalizableObject.EnableFinalizerLogging">
+            <summary>
+            When true, log Finalizer 
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Bootstrap.FinalizableObject.Dispose(System.Boolean)">
+            <summary>
+            Releases unmanaged and - optionally - managed resources.
+            </summary>
+            <param name="disposing"><c>true</c> to release both managed and unmanaged resources; <c>false</c> to release only unmanaged resources.</param>
+        </member>
+        <member name="M:SciChart.UI.Bootstrap.FinalizableObject.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Bootstrap.Utility.ReflectionUtil.DiscoverTypesWithAttribute(System.Type,System.Reflection.Assembly)">
+            <summary>
+            Discovers all objects in the given assembly that are decorated with an attribute
+            </summary>
+            <devdoc>
+            Type T must be an attribute. This method searches the given package for all classes that
+            derive from interface type T</devdoc>
+            <param name="interfaceType">The interface type to search by</param>
+            <param name="objectAssembly">The assembly to search in</param>
+            <returns>A list of object types that implement T</returns>
+            <exception cref="T:System.InvalidOperationException"/>
+        </member>
+    </members>
+</doc>

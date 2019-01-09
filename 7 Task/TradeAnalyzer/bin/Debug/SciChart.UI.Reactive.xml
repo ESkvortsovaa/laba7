@@ -1,0 +1,1022 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SciChart.UI.Reactive</name>
+    </assembly>
+    <members>
+        <member name="T:SciChart.UI.Reactive.ActionCommand`1">
+            <summary>
+            Provides an ICommand derived class allowing delegates to be invokved directly on the view model 
+            </summary>
+            <typeparam name="T">The Type of the command parameter</typeparam>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand`1.#ctor(System.Action{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.ActionCommand`1"/> class.
+            </summary>
+            <param name="execute">The execute delegate.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand`1.#ctor(System.Action{`0},System.Predicate{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.ActionCommand`1"/> class.
+            </summary>
+            <param name="execute">The execute delegate.</param>
+            <param name="canExecute">The can execute predicate.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand`1.CanExecute(System.Object)">
+            <summary>
+            Defines the method that determines whether the command can execute in its current state.
+            </summary>
+            <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to null.</param>
+            <returns>true if this command can be executed; otherwise, false.</returns>
+            <remarks></remarks>
+        </member>
+        <member name="E:SciChart.UI.Reactive.ActionCommand`1.CanExecuteChanged">
+            <summary>
+            Occurs when changes occur that affect whether or not the command should execute.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand`1.RaiseCanExecuteChanged">
+            <summary>
+            Raises the CanExecuteChanged event
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand`1.Execute(System.Object)">
+            <summary>
+            Defines the method to be called when the command is invoked.
+            </summary>
+            <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to null.</param>
+            <remarks></remarks>
+        </member>
+        <member name="T:SciChart.UI.Reactive.ActionCommand">
+            <summary>
+            Provides an ICommand derived class allowing delegates to be invokved directly on the view model 
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand.#ctor(System.Action)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.ActionCommand"/> class.
+            </summary>
+            <param name="execute">The execute delegate.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ActionCommand.#ctor(System.Action,System.Func{System.Boolean})">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.ActionCommand"/> class.
+            </summary>
+            <param name="execute">The execute.</param>
+            <param name="canExecute">The can execute delegate.</param>
+            <remarks></remarks>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Async.ImmediateSynchronizationContext">
+            <summary>
+            Provides a <see cref="T:System.Threading.SynchronizationContext"/> implementation which executes all operations immediately (does not marshal to any specific thread)
+            </summary>
+            <seealso cref="T:System.Threading.SynchronizationContext" />
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.ImmediateSynchronizationContext.Send(System.Threading.SendOrPostCallback,System.Object)">
+            <summary>
+            When overridden in a derived class, dispatches a synchronous message to a synchronization context.
+            </summary>
+            <param name="d">The <see cref="T:System.Threading.SendOrPostCallback"></see> delegate to call.</param>
+            <param name="state">The object passed to the delegate.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.ObservableEx.Start``1(System.Func{``0},System.Reactive.Concurrency.IScheduler)">
+            <summary>
+            Invokes the specified function asynchronously on the specified scheduler, returning an <see cref="T:SciChart.UI.Reactive.Async.ExceptionOrResult`1"/>
+            through an observable sequence
+            </summary>        
+        </member>
+        <member name="T:SciChart.UI.Reactive.Async.SharedScheduler">
+            <summary>
+            A shared Scheduler which can be passed to both RX methods and TPL methods 
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1">
+            <summary>Represents a thread-safe dynamic data collection that provides notifications when items get added, removed, or when the whole list is refreshed.</summary>
+            <typeparam name="T">The type of elements in the collection.</typeparam>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> class.</summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> class that contains elements copied from the specified collection.</summary>
+            <param name="collection">The collection from which the elements are copied.</param>
+            <exception cref="T:System.ArgumentNullException">The <paramref name="collection" /> parameter cannot be null.</exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.#ctor(System.Threading.SynchronizationContext)">
+            <summary>Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> class with the specified context.</summary>
+            <param name="context">The context used for event invokation.</param>
+            <exception cref="T:System.ArgumentNullException">The <paramref name="context" /> parameter cannot be null.</exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.#ctor(System.Collections.Generic.IEnumerable{`0},System.Threading.SynchronizationContext)">
+            <summary>Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> class that contains elements copied from the specified collection with the specified context.</summary>
+            <param name="collection">The collection from which the elements are copied.</param>
+            <param name="context">The context used for event invokation.</param>
+            <exception cref="T:System.ArgumentNullException">The <paramref name="collection" /> parameter cannot be null.</exception>
+            <exception cref="T:System.ArgumentNullException">The <paramref name="context" /> parameter cannot be null.</exception>
+        </member>
+        <member name="E:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.CollectionChanged">
+            <summary>Occurs when an item is added, removed, changed, moved, or the entire list is refreshed.</summary>
+        </member>
+        <member name="E:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.PropertyChanged">
+            <summary>Occurs when a property value changes.</summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.IsFixedSize">
+            <summary>Gets a value indicating whether the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>true if the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> has a fixed size; otherwise, false.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.IsReadOnly">
+            <summary>Gets a value indicating whether the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> is read-only.</summary>
+            <returns>true if the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> is read-only; otherwise, false.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.IsSynchronized">
+            <summary>Gets a value indicating whether access to the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> is synchronized (thread safe).</summary>
+            <returns>true if access to the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> is synchronized (thread safe); otherwise, false.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.SyncRoot">
+            <summary>Gets an object that can be used to synchronize access to the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>An object that can be used to synchronize access to the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Context">
+            <summary>
+            Gets the <see cref="T:System.Threading.SynchronizationContext"/> that events will be invoked on.
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Count">
+            <summary>Gets the number of elements actually contained in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>The number of elements actually contained in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Item(System.Int32)">
+            <summary>Gets or sets the element at the specified index.</summary>
+            <returns>The element at the specified index.</returns>
+            <param name="index">The zero-based index of the element to get or set.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            <paramref name="index" /> is less than zero.-or-<paramref name="index" /> is equal to or greater than <see cref="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Count" />. </exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Dispose(System.Boolean)">
+            <summary>
+            Releases all resources used by the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1"/>.
+            </summary>
+            <param name="disposing">Not used.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Add(`0)">
+            <summary>Adds an object to the end of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. </summary>
+            <param name="item">The object to be added to the end of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. The value can be null for reference types.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Clear">
+            <summary>Removes all elements from the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.CopyTo(`0[],System.Int32)">
+            <summary>Copies the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> elements to an existing one-dimensional <see cref="T:System.Array" />, starting at the specified array index.</summary>
+            <param name="array">The one-dimensional <see cref="T:System.Array" /> that is the destination of the elements copied from <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. The <see cref="T:System.Array" /> must have zero-based indexing.</param>
+            <param name="arrayIndex">The zero-based index in <paramref name="array" /> at which copying begins.</param>
+            <exception cref="T:System.ArgumentNullException">
+            <paramref name="array" /> is null.</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            <paramref name="arrayIndex" /> is less than zero.</exception>
+            <exception cref="T:System.ArgumentException">The number of elements in the source <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> is greater than the available space from <paramref name="arrayIndex" /> to the end of the destination <paramref name="array" />.</exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Contains(`0)">
+            <summary>Determines whether an element is in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>true if <paramref name="item" /> is found in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />; otherwise, false.</returns>
+            <param name="item">The object to locate in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. The value can be null for reference types.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Dispose">
+            <summary>
+            Releases all resources used by the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1"/>.
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.GetEnumerator">
+            <summary>Returns an enumerator that iterates through the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>An <see cref="T:System.Collections.Generic.IEnumerator`1" /> for the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.IndexOf(`0)">
+            <summary>Searches for the specified object and returns the zero-based index of the first occurrence within the entire <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>The zero-based index of the first occurrence of <paramref name="item" /> within the entire <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />, if found; otherwise, -1.</returns>
+            <param name="item">The object to locate in the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. The value can be null for reference types.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Insert(System.Int32,`0)">
+            <summary>Inserts an element into the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" /> at the specified index.</summary>
+            <param name="index">The zero-based index at which <paramref name="item" /> should be inserted.</param>
+            <param name="item">The object to insert. The value can be null for reference types.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            <paramref name="index" /> is less than zero.-or-<paramref name="index" /> is greater than <see cref="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Count" />.</exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Move(System.Int32,System.Int32)">
+            <summary>Moves the item at the specified index to a new location in the collection.</summary>
+            <param name="oldIndex">The zero-based index specifying the location of the item to be moved.</param>
+            <param name="newIndex">The zero-based index specifying the new location of the item.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Remove(`0)">
+            <summary>Removes the first occurrence of a specific object from the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <returns>true if <paramref name="item" /> is successfully removed; otherwise, false.  This method also returns false if <paramref name="item" /> was not found in the original <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</returns>
+            <param name="item">The object to remove from the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />. The value can be null for reference types.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.RemoveAt(System.Int32)">
+            <summary>Removes the element at the specified index of the <see cref="T:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1" />.</summary>
+            <param name="index">The zero-based index of the element to remove.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            <paramref name="index" /> is less than zero.-or-<paramref name="index" /> is equal to or greater than <see cref="P:SciChart.UI.Reactive.Async.SynchronizedObservableCollection`1.Count" />.</exception>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.FromResult``1(``0)">
+            <summary>
+            Returns a completed task with the result passed in
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.StartNew``1(System.Threading.Tasks.TaskFactory,System.Func{``0},SciChart.UI.Reactive.Async.SharedScheduler)">
+            <summary>
+            Starts a Task on the specified scheduler
+            </summary>        
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.StartNew``1(System.Threading.Tasks.TaskFactory,System.Func{``0},System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Starts a Task on the specified scheduler
+            </summary>  
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.Then``1(System.Threading.Tasks.Task{``0},System.Action{``0},System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Continuation on a Task only if not faulted
+            </summary>  
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.Then``2(System.Threading.Tasks.Task{``0},System.Func{``0,``1},System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Continuation on a Task only if not faulted
+            </summary>  
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.Catch``1(System.Threading.Tasks.Task{``0},System.Action{System.AggregateException},System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Catches an exception that occurs anywhere in a continuation chain of Task.Then.Then.Catch
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.StartNew(System.Threading.Tasks.TaskFactory,System.Action,System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Starts a Task on the specified scheduler
+            </summary>     
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.Then(System.Threading.Tasks.Task,System.Action,System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Continuation on a Task only if not faulted
+            </summary>  
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.Catch(System.Threading.Tasks.Task,System.Action{System.AggregateException},System.Threading.Tasks.TaskScheduler)">
+            <summary>
+            Catches an exception that occurs anywhere in a continuation chain of Task.Then.Then.Catch
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskEx.ToExceptionOrResult``1(System.IObservable{``0})">
+            <summary>
+            Converts an <see cref="T:System.IObservable`1"/> to <see cref="!:IObservable&lt;ExceptionOrResult&lt;T&gt;&gt;"/> allowing error handling inside the stream
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="source"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskImmediateScheduler.QueueTask(System.Threading.Tasks.Task)">
+            <summary>Runs the provided Task synchronously on the current thread.</summary>
+            <param name="task">The task to be executed.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskImmediateScheduler.TryExecuteTaskInline(System.Threading.Tasks.Task,System.Boolean)">
+            <summary>Runs the provided Task synchronously on the current thread.</summary>
+            <param name="task">The task to be executed.</param>
+            <param name="taskWasPreviouslyQueued">Whether the Task was previously queued to the scheduler.</param>
+            <returns>True if the Task was successfully executed; otherwise, false.</returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Async.TaskImmediateScheduler.GetScheduledTasks">
+            <summary>Gets the Tasks currently scheduled to this scheduler.</summary>
+            <returns>An empty enumerable, as Tasks are never queued, only executed.</returns>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Async.TaskImmediateScheduler.MaximumConcurrencyLevel">
+            <summary>Gets the maximum degree of parallelism for this scheduler.</summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:SciChart.UI.Reactive.Common.StringlyTyped`1" -->
+        <member name="M:SciChart.UI.Reactive.Extensions.ObservableExtensions.WhenCollectionChanged(System.Collections.Specialized.INotifyCollectionChanged)">
+            <summary>
+            returns the IObservable&lt;EventPattern&lt;NotifyCollectionChangedEventArgs&gt;&gt; for collection Changed events on the ObservableCollection of type T
+            </summary>        
+            <param name="collection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Extensions.ObservableExtensions.WhenCollectionChanged``1(``0,System.Linq.Expressions.Expression{System.Func{``0,System.Collections.Specialized.INotifyCollectionChanged}})">
+            <summary>
+            Returns an IObservable&lt;EventPattern&lt;NotifyCollectionChangedEventArgs&gt;&gt; which also fires when the property instance is changed on a class.
+            </summary>
+            <example>
+            <code>
+            public class MyClass
+            {
+               public ObservableColletion&lt;Object&gt; MyCollection { get;set; }
+            }
+            
+            Usage: MyClass.WhenCollectionChanged(x => x.MyCollection).Subscribe(..)
+            </code>
+            </example>
+            <typeparam name="TContainer">The type of the containing object</typeparam>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Extensions.StringExtensions.SafeReplace(System.String,System.Char,System.Char)">
+            <summary>
+            String.Replace, returning null if input is null, else String.Replace
+            </summary>
+            <param name="input"></param>
+            <param name="from"></param>
+            <param name="to"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Extensions.StringExtensions.ToStream(System.String)">
+            <summary>
+            Writes the string to a stream
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Extensions.StringExtensions.Like(System.String,System.String)">
+            <summary>
+            SQL-Like search with wildcard support e.g. if ("HelloWorld".Like("%W%rld%")) will return true
+            </summary>
+            <param name="toSearch">The string to search.</param>
+            <param name="toFind">To search query using SQL Like syntax.</param>
+            <returns>True if the query appears in the search</returns>
+        </member>
+        <member name="T:SciChart.UI.Reactive.ICompositeDisposable">
+            <summary>
+            The interface to a type which is <see cref="T:System.Reactive.Disposables.CompositeDisposable"/> - it composes a number of types which themselves are disposable. 
+            
+            When this type is disposed, child types should also be disposed
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.ICompositeDisposable.AddDisposable(System.IDisposable)">
+            <summary>
+            Adds the disposable to the inner <see cref="T:System.Reactive.Disposables.CompositeDisposable"/>
+            </summary>
+            <param name="disposable">The disposable.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.DisposableExtensions.DisposeWith(System.IDisposable,SciChart.UI.Reactive.ICompositeDisposable)">
+            <summary>
+            Extension method to dispose the <see cref="T:System.IDisposable"/> disposable with the <see cref="T:SciChart.UI.Reactive.ICompositeDisposable"/> instance
+            </summary>
+            <param name="disposable">The disposable.</param>
+            <param name="compositeDisposable">The composite disposable.</param>
+            <returns></returns>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.IObservableObject">
+            <summary>
+            The interface to an Observable Object allowing reactive and INotifyPropertyChanged events on property changed
+            <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectExtensions"/> for extension methods such as WhenPropertyChanged to get reactive subscriptions on properties 
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Observability.IObservableObject.PropertyChangedSubject">
+            <summary>
+            Reactive subject for property changes. First item in the Tuple is the property name (string), second item is the property value as System.Object
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.ObservableObjectBase">
+            <summary>
+            An ObservableObject implements <see cref="T:System.ComponentModel.INotifyPropertyChanged"/> as well as exposes a PropertyChanged <see cref="T:System.Reactive.Subjects.Subject`1"/>
+            which allows observing properties via the <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})"/> extension method. 
+            
+            <code>
+            ObservableObjectBase o;
+            o.WhenPropertyChanged(x => x.SomeProperty).Subscribe(...);
+            </code>
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Observability.ObservableObjectBase.SciChart#UI#Reactive#Observability#IObservableObject#PropertyChangedSubject">
+            <summary>
+            Reactive subject for property changes. First item in the Tuple is the property name (string), second item is the property value as System.Object
+            </summary>
+        </member>
+        <member name="E:SciChart.UI.Reactive.Observability.ObservableObjectBase.PropertyChanged">
+            <summary>
+            Occurs when a property value changes.
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Observability.ObservableObjectBase.DispatcherSynchronizationContext">
+            <summary>
+            Gets or sets the dispatcher synchronization context.
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.OnPropertyChanged(System.Object,System.String)">
+            <summary>
+            Called when property changes with value. Raises the <see cref="T:System.ComponentModel.INotifyPropertyChanged"/> event as well as publishing OnNext for the reactive <see cref="T:System.Reactive.Subjects.Subject`1"/>
+            for subscribers who have used the <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})"/> extension method
+            </summary>
+            <param name="propertyName">Name of the property.</param>
+            <param name="value">The value.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.SetDynamicValue``1(``0,System.String)">
+            <summary>
+            SetValue implementation which raises both INotifyPropertyChanged and reactive OnNext for subscribers who have used the <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})"/> extension method
+            </summary>
+            <typeparam name="T">The type of property</typeparam>
+            <param name="propertyName">Name of the property.</param>
+            <param name="value">The value.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.GetDynamicValue``1(System.String)">
+            <summary>
+            GetValue implementation which pairs with <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.SetDynamicValue``1(``0,System.String)"/>
+            </summary>
+            <typeparam name="T">The type of property</typeparam>
+            <param name="propertyName">Name of the property.</param>
+            <returns>The value.</returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.AddDisposable(System.IDisposable)">
+            <summary>
+            Adds the disposable to the inner <see cref="T:System.Reactive.Disposables.CompositeDisposable"/>
+            </summary>
+            <param name="disposable">The disposable.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectBase.Dispose(System.Boolean)">
+            <summary>
+            Releases unmanaged and - optionally - managed resources.
+            </summary>
+            <param name="disposing"><c>true</c> to release both managed and unmanaged resources; <c>false</c> to release only unmanaged resources.</param>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.ObservableObjectExtensions">
+            <summary>
+            Extension methods for <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectBase"/>
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})">
+            <summary>
+            Transforms <see cref="E:SciChart.UI.Reactive.Observability.ObservableObjectBase.PropertyChanged"/> into an <see cref="T:System.IObservable`1"/> for use in Reactive applications. 
+            
+            Usage is: 
+            <code>
+            ObservableObjectBase o;
+            o.WhenPropertyChanged(x => x.SomeProperty).Subscribe(...);
+            </code>
+            </summary>
+            <typeparam name="TViewModel">The type of the view model.</typeparam>
+            <typeparam name="TProp">The type of the property.</typeparam>
+            <param name="viewModel">The view model instance.</param>
+            <param name="property">The property to listen to (extracted via Expression / Func reflection).</param>
+            <returns>An <see cref="T:System.IObservable`1"/> for this property</returns>
+            <exception cref="T:System.NotSupportedException">Only use expressions that call a single property</exception>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.ObservableProperty`1">
+            <summary>
+            Emulates a property getter / setter with observability
+            </summary>
+            <example>
+            <code>
+            public class MyClassIWantToObserveSomethingOn
+            {
+                public ObservableProperty&gt;string&lt; Test { get; }
+            }
+            
+            var foo = new MyClassIWantToObserveSomethingOn();
+            foo.Test.Subscribe(s => Console.WriteLine(s));
+            foo.Test.SetValue("Hello World!");
+            </code>
+            </example>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.ViewModelBase">
+            <summary>
+            An ViewModel class which implements <see cref="T:System.ComponentModel.INotifyPropertyChanged"/> as well but does not expose observable subject and does not have a Finalizer. 
+            
+            Used for smaller, more frequently created ViewModels where you do not want to add to memory pressure
+            </summary>
+        </member>
+        <member name="E:SciChart.UI.Reactive.Observability.ViewModelBase.PropertyChanged">
+            <summary>
+            Occurs when a property value changes.
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Observability.ViewModelBase.DispatcherSynchronizationContext">
+            <summary>
+            Gets or sets the dispatcher synchronization context.
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ViewModelBase.OnPropertyChanged(System.Object,System.String)">
+            <summary>
+            Called when property changes with value. Raises the <see cref="T:System.ComponentModel.INotifyPropertyChanged"/> event as well as publishing OnNext for the reactive <see cref="T:System.Reactive.Subjects.Subject`1"/>
+            for subscribers who have used the <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})"/> extension method
+            </summary>
+            <param name="propertyName">Name of the property.</param>
+            <param name="value">The value.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ViewModelBase.SetDynamicValue``1(``0,System.String)">
+            <summary>
+            SetValue implementation which raises both INotifyPropertyChanged and reactive OnNext for subscribers who have used the <see cref="M:SciChart.UI.Reactive.Observability.ObservableObjectExtensions.WhenPropertyChanged``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})"/> extension method
+            </summary>
+            <typeparam name="T">The type of property</typeparam>
+            <param name="propertyName">Name of the property.</param>
+            <param name="value">The value.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ViewModelBase.GetDynamicValue``1(System.String)">
+            <summary>
+            GetValue implementation which pairs with <see cref="M:SciChart.UI.Reactive.Observability.ViewModelBase.SetDynamicValue``1(``0,System.String)"/>
+            </summary>
+            <typeparam name="T">The type of property</typeparam>
+            <param name="propertyName">Name of the property.</param>
+            <returns>The value.</returns>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase">
+            <summary>
+            Defines a ViewModel base class which extends <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectBase"/> to allow Reactive (Rx) subscription to PropertyChanged
+            events, as well as containing an inner <see cref="T:SciChart.UI.Reactive.Traits.ViewModelTraitCollection"/> which allows for subsets of viewmodel behaviour to be neatly
+            contained in classes which implement <see cref="T:SciChart.UI.Reactive.Traits.IViewModelTrait"/>
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase"/> class.
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase.ViewModelTraits">
+            <summary>
+            Gets the <see cref="T:SciChart.UI.Reactive.Traits.ViewModelTraitCollection"/> instance
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase.WithTrait``1">
+            <summary>
+            Adds the type of Trait to the <see cref="T:SciChart.UI.Reactive.Traits.ViewModelTraitCollection"/>. This will be instantiated with the current 
+            dependency injection container and any dependencies of the Trait will be resolved and injected automatically. 
+            </summary>
+            <typeparam name="T">The type of <see cref="T:SciChart.UI.Reactive.Traits.IViewModelTrait"/> to add</typeparam>
+            <returns>The <see cref="T:SciChart.UI.Reactive.Traits.IViewModelTrait"/> instance</returns>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.CanBeNullAttribute">
+            <summary>
+            Indicates that the value of the marked element could be <c>null</c> sometimes,
+            so the check for <c>null</c> is necessary before its usage
+            </summary>
+            <example><code>
+            [CanBeNull] public object Test() { return null; }
+            public void UseTest() {
+              var p = Test();
+              var s = p.ToString(); // Warning: Possible 'System.NullReferenceException'
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.NotNullAttribute">
+            <summary>
+            Indicates that the value of the marked element could never be <c>null</c>
+            </summary>
+            <example><code>
+            [NotNull] public object Foo() {
+              return null; // Warning: Possible 'null' assignment
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.StringFormatMethodAttribute">
+            <summary>
+            Indicates that the marked method builds string by format pattern and (optional) arguments.
+            Parameter, which contains format string, should be given in constructor. The format string
+            should be in <see cref="M:System.String.Format(System.IFormatProvider,System.String,System.Object[])"/>-like form
+            </summary>
+            <example><code>
+            [StringFormatMethod("message")]
+            public void ShowError(string message, params object[] args) { /* do something */ }
+            public void Foo() {
+              ShowError("Failed: {0}"); // Warning: Non-existing argument in format string
+            }
+            </code></example>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Annotations.StringFormatMethodAttribute.#ctor(System.String)">
+            <param name="formatParameterName">
+            Specifies which parameter of an annotated method should be treated as format-string
+            </param>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.InvokerParameterNameAttribute">
+            <summary>
+            Indicates that the function argument should be string literal and match one
+            of the parameters of the caller function. For example, ReSharper annotates
+            the parameter of <see cref="T:System.ArgumentNullException"/>
+            </summary>
+            <example><code>
+            public void Foo(string param) {
+              if (param == null)
+                throw new ArgumentNullException("par"); // Warning: Cannot resolve symbol
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.NotifyPropertyChangedInvocatorAttribute">
+             <summary>
+             Indicates that the method is contained in a type that implements
+             <see cref="T:System.ComponentModel.INotifyPropertyChanged"/> interface
+             and this method is used to notify that some property value changed
+             </summary>
+             <remarks>
+             The method should be non-static and conform to one of the supported signatures:
+             <list>
+             <item><c>NotifyChanged(string)</c></item>
+             <item><c>NotifyChanged(params string[])</c></item>
+             <item><c>NotifyChanged{T}(Expression{Func{T}})</c></item>
+             <item><c>NotifyChanged{T,U}(Expression{Func{T,U}})</c></item>
+             <item><c>SetProperty{T}(ref T, T, string)</c></item>
+             </list>
+             </remarks>
+             <example><code>
+             public class Foo : INotifyPropertyChanged {
+               public event PropertyChangedEventHandler PropertyChanged;
+               [NotifyPropertyChangedInvocator]
+               protected virtual void NotifyChanged(string propertyName) { ... }
+            
+               private string _name;
+               public string Name {
+                 get { return _name; }
+                 set { _name = value; NotifyChanged("LastName"); /* Warning */ }
+               }
+             }
+             </code>
+             Examples of generated notifications:
+             <list>
+             <item><c>NotifyChanged("Property")</c></item>
+             <item><c>NotifyChanged(() =&gt; Property)</c></item>
+             <item><c>NotifyChanged((VM x) =&gt; x.Property)</c></item>
+             <item><c>SetProperty(ref myField, value, "Property")</c></item>
+             </list>
+             </example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.ContractAnnotationAttribute">
+            <summary>
+            Describes dependency between method input and output
+            </summary>
+            <syntax>
+            <p>Function Definition Table syntax:</p>
+            <list>
+            <item>FDT      ::= FDTRow [;FDTRow]*</item>
+            <item>FDTRow   ::= Input =&gt; Output | Output &lt;= Input</item>
+            <item>Input    ::= ParameterName: Value [, Input]*</item>
+            <item>Output   ::= [ParameterName: Value]* {halt|stop|void|nothing|Value}</item>
+            <item>Value    ::= true | false | null | notnull | canbenull</item>
+            </list>
+            If method has single input parameter, it's name could be omitted.<br/>
+            Using <c>halt</c> (or <c>void</c>/<c>nothing</c>, which is the same)
+            for method output means that the methos doesn't return normally.<br/>
+            <c>canbenull</c> annotation is only applicable for output parameters.<br/>
+            You can use multiple <c>[ContractAnnotation]</c> for each FDT row,
+            or use single attribute with rows separated by semicolon.<br/>
+            </syntax>
+            <examples><list>
+            <item><code>
+            [ContractAnnotation("=> halt")]
+            public void TerminationMethod()
+            </code></item>
+            <item><code>
+            [ContractAnnotation("halt &lt;= condition: false")]
+            public void Assert(bool condition, string text) // regular assertion method
+            </code></item>
+            <item><code>
+            [ContractAnnotation("s:null => true")]
+            public bool IsNullOrEmpty(string s) // string.IsNullOrEmpty()
+            </code></item>
+            <item><code>
+            // A method that returns null if the parameter is null, and not null if the parameter is not null
+            [ContractAnnotation("null => null; notnull => notnull")]
+            public object Transform(object data) 
+            </code></item>
+            <item><code>
+            [ContractAnnotation("s:null=>false; =>true,result:notnull; =>false, result:null")]
+            public bool TryParse(string s, out Person result)
+            </code></item>
+            </list></examples>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.LocalizationRequiredAttribute">
+            <summary>
+            Indicates that marked element should be localized or not
+            </summary>
+            <example><code>
+            [LocalizationRequiredAttribute(true)]
+            public class Foo {
+              private string str = "my string"; // Warning: Localizable string
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.CannotApplyEqualityOperatorAttribute">
+            <summary>
+            Indicates that the value of the marked type (or its derivatives)
+            cannot be compared using '==' or '!=' operators and <c>Equals()</c>
+            should be used instead. However, using '==' or '!=' for comparison
+            with <c>null</c> is always permitted.
+            </summary>
+            <example><code>
+            [CannotApplyEqualityOperator]
+            class NoEquality { }
+            class UsesNoEquality {
+              public void Test() {
+                var ca1 = new NoEquality();
+                var ca2 = new NoEquality();
+                if (ca1 != null) { // OK
+                  bool condition = ca1 == ca2; // Warning
+                }
+              }
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.BaseTypeRequiredAttribute">
+            <summary>
+            When applied to a target attribute, specifies a requirement for any type marked
+            with the target attribute to implement or inherit specific type or types.
+            </summary>
+            <example><code>
+            [BaseTypeRequired(typeof(IComponent)] // Specify requirement
+            public class ComponentAttribute : Attribute { }
+            [Component] // ComponentAttribute requires implementing IComponent interface
+            public class MyComponent : IComponent { }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.UsedImplicitlyAttribute">
+            <summary>
+            Indicates that the marked symbol is used implicitly
+            (e.g. via reflection, in external library), so this symbol
+            will not be marked as unused (as well as by other usage inspections)
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.MeansImplicitUseAttribute">
+            <summary>
+            Should be used on attributes and causes ReSharper
+            to not mark symbols marked with such attributes as unused
+            (as well as by other usage inspections)
+            </summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseKindFlags.Access">
+            <summary>Only entity marked with attribute considered used</summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseKindFlags.Assign">
+            <summary>Indicates implicit assignment to a member</summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseKindFlags.InstantiatedWithFixedConstructorSignature">
+            <summary>
+            Indicates implicit instantiation of a type with fixed constructor signature.
+            That means any unused constructor parameters won't be reported as such.
+            </summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseKindFlags.InstantiatedNoFixedConstructorSignature">
+            <summary>Indicates implicit instantiation of a type</summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.ImplicitUseTargetFlags">
+            <summary>
+            Specify what is considered used implicitly
+            when marked with <see cref="T:SciChart.UI.Reactive.Annotations.MeansImplicitUseAttribute"/>
+            or <see cref="T:SciChart.UI.Reactive.Annotations.UsedImplicitlyAttribute"/>
+            </summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseTargetFlags.Members">
+            <summary>Members of entity marked with attribute are considered used</summary>
+        </member>
+        <member name="F:SciChart.UI.Reactive.Annotations.ImplicitUseTargetFlags.WithMembers">
+            <summary>Entity marked with attribute and all its members considered used</summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.PublicAPIAttribute">
+            <summary>
+            This attribute is intended to mark publicly available API
+            which should not be removed and so is treated as used
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.InstantHandleAttribute">
+            <summary>
+            Tells code analysis engine if the parameter is completely handled
+            when the invoked method is on stack. If the parameter is a delegate,
+            indicates that delegate is executed while the method is executed.
+            If the parameter is an enumerable, indicates that it is enumerated
+            while the method is executed
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.PureAttribute">
+            <summary>
+            Indicates that a method does not make any observable state changes.
+            The same as <c>System.Diagnostics.Contracts.PureAttribute</c>
+            </summary>
+            <example><code>
+            [Pure] private int Multiply(int x, int y) { return x * y; }
+            public void Foo() {
+              const int a = 2, b = 2;
+              Multiply(a, b); // Waring: Return value of pure method is not used
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.PathReferenceAttribute">
+            <summary>
+            Indicates that a parameter is a path to a file or a folder
+            within a web project. Path can be relative or absolute,
+            starting from web root (~)
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcActionAttribute">
+            <summary>
+            ASP.NET MVC attribute. If applied to a parameter, indicates that the parameter
+            is an MVC action. If applied to a method, the MVC action name is calculated
+            implicitly from the context. Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Html.ChildActionExtensions.RenderAction(HtmlHelper, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcAreaAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC area.
+            Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Html.ChildActionExtensions.RenderAction(HtmlHelper, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcControllerAttribute">
+            <summary>
+            ASP.NET MVC attribute. If applied to a parameter, indicates that
+            the parameter is an MVC controller. If applied to a method,
+            the MVC controller name is calculated implicitly from the context.
+            Use this attribute for custom wrappers similar to 
+            <c>System.Web.Mvc.Html.ChildActionExtensions.RenderAction(HtmlHelper, String, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcMasterAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC Master.
+            Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Controller.View(String, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcModelTypeAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC model type.
+            Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Controller.View(String, Object)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcPartialViewAttribute">
+            <summary>
+            ASP.NET MVC attribute. If applied to a parameter, indicates that
+            the parameter is an MVC partial view. If applied to a method,
+            the MVC partial view name is calculated implicitly from the context.
+            Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Html.RenderPartialExtensions.RenderPartial(HtmlHelper, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcSupressViewErrorAttribute">
+            <summary>
+            ASP.NET MVC attribute. Allows disabling all inspections
+            for MVC views within a class or a method.
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcDisplayTemplateAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC display template.
+            Use this attribute for custom wrappers similar to 
+            <c>System.Web.Mvc.Html.DisplayExtensions.DisplayForModel(HtmlHelper, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcEditorTemplateAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC editor template.
+            Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Html.EditorExtensions.EditorForModel(HtmlHelper, String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcTemplateAttribute">
+            <summary>
+            ASP.NET MVC attribute. Indicates that a parameter is an MVC template.
+            Use this attribute for custom wrappers similar to
+            <c>System.ComponentModel.DataAnnotations.UIHintAttribute(System.String)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcViewAttribute">
+            <summary>
+            ASP.NET MVC attribute. If applied to a parameter, indicates that the parameter
+            is an MVC view. If applied to a method, the MVC view name is calculated implicitly
+            from the context. Use this attribute for custom wrappers similar to
+            <c>System.Web.Mvc.Controller.View(Object)</c>
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.AspMvcActionSelectorAttribute">
+            <summary>
+            ASP.NET MVC attribute. When applied to a parameter of an attribute,
+            indicates that this parameter is an MVC action name
+            </summary>
+            <example><code>
+            [ActionName("Foo")]
+            public ActionResult Login(string returnUrl) {
+              ViewBag.ReturnUrl = Url.Action("Foo"); // OK
+              return RedirectToAction("Bar"); // Error: Cannot resolve action
+            }
+            </code></example>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Annotations.RazorSectionAttribute">
+            <summary>
+            Razor attribute. Indicates that a parameter or a method is a Razor section.
+            Use this attribute for custom wrappers similar to 
+            <c>System.Web.WebPages.WebPageBase.RenderSection(String)</c>
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.VisitCount">
+            <summary>
+            Total visits to the example
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.SecondsSpent">
+            <summary>
+            Total time spent looking at the example
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.Interactions">
+            <summary>
+            Number of interactions with functional parts the example 
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.ViewedSource">
+            <summary>
+            True if the user ever viewed the source of the example
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.Exported">
+            <summary>
+            True if the user ever exported the example
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.FeedbackType">
+            <summary>
+            User rating
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.Email">
+            <summary>
+            Users email, if they would like to be contacted regarding their feedback
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleUsage.FeedbackText">
+            <summary>
+            User comments
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.UsageData.Usage">
+            <summary>
+            Usage dictionary keyed on ExampleId
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleRating.Popularity">
+            <summary>
+            Score based on usage stats like vists and time spent
+            </summary>
+        </member>
+        <member name="P:SciChart.UI.Reactive.Services.ExampleRating.Rating">
+            <summary>
+            Score based on user feedback
+            </summary>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Traits.ViewModelTrait`1">
+            <summary>
+            A ViewModelTrait is a place to put a unit of work on an <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectBase"/>, for instance, handling the observability
+            of search and updating of results.
+            </summary>
+            <typeparam name="T">The type of <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectBase"/> we are targetting</typeparam>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTrait`1.#ctor(`0)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Traits.ViewModelTrait`1"/> class.
+            </summary>
+            <param name="target">The target <see cref="T:SciChart.UI.Reactive.Observability.ObservableObjectBase"/>.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTrait`1.AddDisposable(System.IDisposable)">
+            <summary>
+            Adds the disposable to the inner  <see cref="T:System.Reactive.Disposables.CompositeDisposable"/>
+            </summary>
+            <param name="disposable">The disposable.</param>
+        </member>
+        <member name="T:SciChart.UI.Reactive.Traits.ViewModelTraitCollection">
+            <summary>
+            A collection of <see cref="T:SciChart.UI.Reactive.Traits.IViewModelTrait"/> - traits or viewmodel behaviours which are added to <see cref="T:SciChart.UI.Reactive.Observability.ViewModelWithTraitsBase"/> 
+            to allow for better segmentation of code and decoupling of dependencies 
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.#ctor(SciChart.UI.Reactive.Observability.ObservableObjectBase,SciChart.UI.Reactive.Traits.ITraitDependencyResolver)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SciChart.UI.Reactive.Traits.ViewModelTraitCollection"/> class.
+            </summary>
+            <param name="parent">The parent.</param>
+            <param name="container">The container.</param>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.Add``1">
+            <summary>
+            Adds the trait instance <see cref="!:T"/> to this collection, returning the actual instance 
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.TryGet``1">
+            <summary>
+            Tries to get a trait of type <see cref="!:T"/>
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.Contains``1">
+            <summary>
+            Determines whether a trait of type <see cref="!:T"/> exists in the collection
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.Dispose">
+            <summary>
+            Disposes this plus any contained objects in the inner <see cref="T:System.Reactive.Disposables.CompositeDisposable"/>
+            </summary>
+        </member>
+        <member name="M:SciChart.UI.Reactive.Traits.ViewModelTraitCollection.AddDisposable(System.IDisposable)">
+            <summary>
+            Adds the disposable to the inner <see cref="T:System.Reactive.Disposables.CompositeDisposable"/>
+            </summary>
+            <param name="disposable">The disposable.</param>
+        </member>
+    </members>
+</doc>
